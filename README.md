@@ -82,3 +82,6 @@ This is not supported natively by the library, but you can do something like wha
 
 # License
 MIT
+
+
+https://www.techiedelight.com/get-selected-values-multi-select-dropdown-javascript
